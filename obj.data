@@ -1,0 +1,5 @@
+classes= 7
+train  = /content/Yolov4-Object-Detection/train.txt
+valid  = /content/Yolov4-Object-Detection/valid.txt
+names = /content/Yolov4-Object-Detection/obj.names
+backup = backup/
